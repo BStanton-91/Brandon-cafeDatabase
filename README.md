@@ -1,4 +1,4 @@
-# Brandon-cafeDatabase-
+# Brandon-cafeDatabase
 
 Brandon-cafeDatabase is a datebase where you can see currret employees and what type of job they have.
 
